@@ -1,0 +1,1 @@
+`html <! DOCTYPE html> <html> <head> <title>Descargar App</title> </head> <body style="font-family:Arial; text-align:center; padding-top:50px;" > <h1>Descargar Aplicación</h1> <a href="app-debug.apk" download> <button style="padding:15px 30px; font-size:20px;" > Descargar APK </button> </a> </body> </html>
